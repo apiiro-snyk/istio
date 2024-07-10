@@ -465,3 +465,4 @@ zope-interface==6.4 \
     --hash=sha256:f78e1eac48c4f4e0168a91cabcd8d1aedb972836df5c8769071fc6173294a0a3 \
     --hash=sha256:fe636b49c333bfc5b0913590e36a2f151167c462fb36d9f4acc66029e45c974b
     # via gevent
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
